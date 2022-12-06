@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "594722592842",
+    "project_id": "signauth2",
+    "storage_bucket": "signauth2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594722592842:android:c27d11c2f00fcd9ac1aeb3",
+        "android_client_info": {
+          "package_name": "com.uygensoft.signauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594722592842-ad2c22dtrh806lkpkmspet5nunr70pdg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uygensoft.signauth",
+            "certificate_hash": "a789e505c817a122ea906ea6eaa3d48b3a30ab18"
+          }
+        },
+        {
+          "client_id": "594722592842-hgvs8jpjgq8h1107jgcgp35v0qk7q4e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEZxWBSJtssNghf4FrTHm7Vr8wkacMBaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594722592842-hgvs8jpjgq8h1107jgcgp35v0qk7q4e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
